@@ -30,7 +30,7 @@ height = int(input('Enter the height of the rectangle = '))
 # In[6]:
 
 
-circum_rectangle = width + height
+circum_rectangle = 2 * (width + height)
 print('The circumfrenece of the rectangle = ',circum_rectangle)
 
 
